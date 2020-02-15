@@ -1,1 +1,0 @@
-# applied-deep-learning
